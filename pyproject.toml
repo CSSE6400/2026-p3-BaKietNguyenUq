@@ -1,10 +1,9 @@
 [project]
-name = "practical03"
+name = "2026-p3-bakietnguyenuq"
 version = "0.1.0"
-description = "Practical guide to dockerize a flask application"
-license =  "CC-BY-NC-SA-4.0"
+description = ""
 authors = [
-    {name = "Nimesh Garg",email = "nimesh@somemail.com"}
+    {name = "Ba Kiet Nguyen Uq",email = "bakiet.nguyen@student.uq.edu.au"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
@@ -13,6 +12,7 @@ dependencies = [
     "flask-sqlalchemy (>=3.1.1,<4.0.0)",
     "psycopg2-binary (>=2.9.11,<3.0.0)",
 ]
+
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
